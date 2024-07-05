@@ -5,4 +5,4 @@
 
 
 
-<img src="https://github.com/Daniellrjalves/Stopwatch/blob/master/assets/watch.jpg?raw=true">
+<img src="https://github.com/Daniellrjalves/Stopwatch/blob/master/assets/wacth-image.jpg?raw=true">
